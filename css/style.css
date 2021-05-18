@@ -1,0 +1,15 @@
+body {
+    background-color: #f2fff6;
+}
+
+.container {
+    width: 100%;
+
+
+    margin: 0 auto;
+}
+
+iframe {
+    width: 100vw;
+    height: 99vh;
+}
